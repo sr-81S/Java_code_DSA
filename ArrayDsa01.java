@@ -1,6 +1,11 @@
 package DSA_java;
-
 import java.util.Scanner;
+
+
+
+
+
+
 
 
 
@@ -16,7 +21,6 @@ public class ArrayDsa01 {
     }
 
     //reverse array function
-
     static void reverseArray(int arr[]){
         int start =0;
         int end = arr.length -1;
@@ -32,9 +36,7 @@ public class ArrayDsa01 {
         printArray(arr);
     }
 
-
-
-
+    //the main function is start
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int ind = input.nextInt();
