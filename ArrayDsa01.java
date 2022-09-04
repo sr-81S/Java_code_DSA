@@ -1,14 +1,21 @@
 package DSA_java;
 import java.util.Scanner;
 
+/*
+  1 -> In this program 1st give the size of the array in and integer
+  2 -> give the integer value and a space between it
+  3 -> see the output reverse of the array
+* */
 
+/*
+   input & output
 
-
-
-
-
-
-
+   input ->
+            6 (size of array)
+            1 2 3 4 5 6
+   output ->
+            6 5 4 3 2 1
+**/
 
 
 public class ArrayDsa01 {
